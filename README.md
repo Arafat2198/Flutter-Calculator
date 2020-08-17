@@ -1,4 +1,4 @@
-# Flutter Calculator
+# Implementing a Calculator using Flutter
 ![git_pic](https://user-images.githubusercontent.com/54267475/90404974-c6b03200-e0c0-11ea-84db-5fd1faa47e80.JPG)
 
 A new Flutter project.
